@@ -19,7 +19,7 @@
 ## Відеодемонстрація виконання практичної
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=SFSC1omkE8Q&feature=youtu.be" target="_blank><img src="https://img.youtube.com/vi/SFSC1omkE8Q/0.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=SFSC1omkE8Q&feature=youtu.be" target="_blank"><img src="https://img.youtube.com/vi/SFSC1omkE8Q/0.jpg"/></a>
 </p>
 
 Не забувайте, що ви можете обговорювати завдання в девелоперському мессенджері **Gitter** - у відповідній [чат-кімнаті](https://gitter.im/PPC-SE-2020/OOP?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
